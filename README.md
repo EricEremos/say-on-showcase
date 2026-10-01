@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://say-on.vercel.app"><img src="assets/turn-over.gif" width="880" alt="On a round wooden table, a card turns over into a film print: a photo of swimming goggles on a map, and the question 가장 최근에 처음 해 본 일은 무엇이었나요? — beside it, 하늘님의 차례 and a talking timer."></a>
+  <a href="https://say-on.vercel.app"><img src="assets/turn-over.gif" width="880" alt="On a round wooden table, three face-down prints each carry their question's sticker; one is picked, travels to the centre and turns over into a film print: a photo of swimming goggles on a map, and the question 가장 최근에 처음 해 본 일은 무엇이었나요? — beside it, 하늘님의 차례 and a talking timer."></a>
 </p>
 
 <h1 align="center">Say-On 사연</h1>
