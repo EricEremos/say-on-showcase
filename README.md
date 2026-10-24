@@ -10,21 +10,13 @@
   <sub>No install, no sign-up. Best with two or more phones in the same room.</sub>
 </p>
 
-<p align="center">
-  <a href="https://say-on.vercel.app"><img src="assets/turn-over.gif" width="880" alt="Three illustrated cards sit face down on a wooden table. One is chosen and turns into a film print asking about the most recent thing someone tried for the first time. The current speaker and timer sit beside it."></a>
-</p>
+<p align="center"><a href="assets/say-on-promo-20261024.mp4"><img src="assets/say-on-promo-20261024.gif" alt="Say-On film: friends open a room, a card turns over to reveal a question, the table talks it through, and a balance round reveals everyone's choice." width="100%"></a></p>
+
+<p align="center"><sub>Recorded from the live web app. No install or sign-up is needed to play.</sub><br><a href="assets/say-on-promo-20261024.mp4">Watch the full film</a> · <a href="assets/say-on-promo-20261024-poster.png">Still frame</a> · <a href="assets/say-on-promo-20261024-manifest.json">Capture details</a></p>
 
 **사연** is the story behind a choice—the kind you tell when someone asks *why*. **Say on** means *keep talking*.
 
 Say-On gives the people around a table something to start with. Pick a question, hear an unexpected answer and follow the conversation wherever it goes. There is no feed, score or winner.
-
-## Watch the product film
-
-<p align="center"><a href="assets/say-on-promo-20261024.mp4"><img src="assets/say-on-promo-20261024.gif" alt="Say-On film: friends open a room, a card turns over to reveal a question, the table talks it through, and a balance round reveals everyone's choice." width="100%"></a></p>
-
-[Watch the full film (MP4)](assets/say-on-promo-20261024.mp4) · [Open the still frame](assets/say-on-promo-20261024-poster.png) · [Capture and production details](assets/say-on-promo-20261024-manifest.json)
-
-Recorded from the live web app. No install or sign-up is needed to play.
 
 ## Bring everyone to the same table
 
@@ -41,6 +33,10 @@ One person opens a room and shares its invite code. Everyone else joins from the
 </p>
 
 Three cards arrive on the table. The person whose turn it is picks one, and it opens for everyone at the same moment. What happens next depends on the deck.
+
+<p align="center">
+  <a href="https://say-on.vercel.app"><img src="assets/turn-over.gif" width="880" alt="Three illustrated cards sit face down on a wooden table. One is chosen and turns into a film print asking about the most recent thing someone tried for the first time. The current speaker and timer sit beside it."></a>
+</p>
 
 ### Tell a story · 아이스브레이크
 
