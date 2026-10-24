@@ -10,9 +10,9 @@
   <sub>No install, no sign-up. Best with two or more phones in the same room.</sub>
 </p>
 
-<p align="center"><a href="assets/say-on-promo-20261024.mp4"><img src="assets/say-on-promo-20261024.gif" alt="Say-On film: friends open a room, a card turns over to reveal a question, the table talks it through, and a balance round reveals everyone's choice." width="100%"></a></p>
+<p align="center"><a href="assets/say-on-promo-20261024.mp4"><img src="assets/say-on-promo-20261024.gif" alt="Say-On film shot from above a wooden table: three cards are dealt, one turns over for everyone at once, question prints land on the pile, balance pairs ask you to pick a side, and it ends on a fanned hand of cards." width="100%"></a></p>
 
-<p align="center"><sub>Recorded from the live web app. No install or sign-up is needed to play.</sub><br><a href="assets/say-on-promo-20261024.mp4">Watch the full film</a> · <a href="assets/say-on-promo-20261024-poster.png">Still frame</a> · <a href="assets/say-on-promo-20261024-manifest.json">Capture details</a></p>
+<p align="center"><sub>Animated product screenshots using the app's own table, card and print art from this repository. No live room was opened. Play it in your browser at say-on.vercel.app.</sub><br><a href="assets/say-on-promo-20261024.mp4">Watch the full film</a> · <a href="assets/say-on-promo-20261024-poster.png">Still frame</a> · <a href="assets/say-on-promo-20261024-manifest.json">Capture details</a></p>
 
 **사연** is the story behind a choice—the kind you tell when someone asks *why*. **Say on** means *keep talking*.
 

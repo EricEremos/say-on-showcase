@@ -1,63 +1,38 @@
 {
  "product": "say-on",
- "edition": "2026-10-24 (latest film)",
+ "edition": "revision 7 (owner-approved, 24 Oct 2026)",
  "film": {
-  "duration_seconds": 23.7,
+  "duration_seconds": 20.5,
   "width": 1920,
   "height": 1080,
   "fps": 30,
   "audio": "silent",
-  "readme_loop": "the full film"
+  "readme_loop": "the full film",
+  "mp4": "review encode of the master (CRF 24, faststart)"
  },
- "production": {
-  "visual_author": "Claude, HyperFrames (HTML and GSAP rendered in Chrome)",
-  "principle": "Original product interface pixels are scaled, cropped and moved; campaign type and motion sit around them. No on-screen provenance labels; qualifications live here and beside the film."
+ "qualification": "Animated product screenshots using the app's own table, card and print art from this repository. No live room was opened. Play it in your browser at say-on.vercel.app.",
+ "source_package": {
+  "path": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/claude-motion-20261023/rev7",
+  "master_sha256": "cc9a7a7b77f94ac804d0462f5a36969824890994e5107f79ceb3e2793a075d15",
+  "review_sha256": "5f73e9f6578e011b642543d9fef7c035eab608b0d424f47845e82f6c35d9236e",
+  "poster_sha256": "e5b8f27e00f31af71404987e8feea2893150b6f9ebd6878cf2de6f39413d1076"
  },
- "qualification": "Recorded from the live web app. No install or sign-up is needed to play.",
- "sources": {
-  "step-1-rooms.webp": {
-   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/step-1-rooms.webp",
-   "sha256": "e6ec9aa651b7d7dda2eac1a95df07021d9c781af552837f364af89d092084ded"
-  },
-  "step-3-talk.webp": {
-   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/step-3-talk.webp",
-   "sha256": "39e8212bf68b8cf57c8221327066489bc532a3f5963cbfc070509ebbe5ca520c"
-  },
-  "chat-open.webp": {
-   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/chat-open.webp",
-   "sha256": "4b97b987ea9466b92d512281d75220c16854c1f618fa4ccbf86f756ed96ad16e"
-  },
-  "game-balance-choose.webp": {
-   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/game-balance-choose.webp",
-   "sha256": "9e0313e9fcbac2402ce934f4074312f90d19c0b34cd31111ab5df8e18e4348af"
-  },
-  "turn-over.gif": {
-   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/turn-over.gif",
-   "sha256": "6130590d71280cb63d4a7380e1247cce42bf870051abcf1e4f1a79d54c32d120"
-  },
-  "balance-round.gif": {
-   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/balance-round.gif",
-   "sha256": "510b7807e7e390d1b957fdddc82608db21201b41440c8e1982d4f71866b01c59"
-  },
-  "qcard.png": {
-   "note": "crop of step-3-talk.webp: the question photo card"
-  }
- },
+ "principle": "Original interface pixels with campaign type and motion around them; no on-screen provenance labels.",
  "files": {
   "mp4": {
    "path": "assets/say-on-promo-20261024.mp4",
-   "bytes": 1867502,
-   "sha256": "ee99f16b0d775ccd4c6b8925d21c82d9a35ccaca63bcdc4205d402af7ddecb94"
+   "bytes": 4803469,
+   "sha256": "5f73e9f6578e011b642543d9fef7c035eab608b0d424f47845e82f6c35d9236e"
   },
   "gif": {
    "path": "assets/say-on-promo-20261024.gif",
-   "bytes": 7337488,
-   "sha256": "e21c51d9324cfc183faf1ed706dce00ad37dcf312a16a25d1ff34f05137ad3d6"
+   "bytes": 4915916,
+   "sha256": "53e2140a7d1183d7eae47684aeb1e91f3d7127fc176bb62469374b0ccd7c62b0"
   },
   "poster": {
    "path": "assets/say-on-promo-20261024-poster.png",
-   "bytes": 1052434,
-   "sha256": "cc4d397ae814c28746fe93082fee8e179081d4edab746dd814ddf3fc30927340"
+   "bytes": 3286662,
+   "sha256": "e5b8f27e00f31af71404987e8feea2893150b6f9ebd6878cf2de6f39413d1076"
   }
  }
 }
