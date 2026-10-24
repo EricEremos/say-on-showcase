@@ -1,0 +1,63 @@
+{
+ "product": "say-on",
+ "edition": "2026-10-24 (latest film)",
+ "film": {
+  "duration_seconds": 23.7,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": "silent",
+  "readme_loop": "the full film"
+ },
+ "production": {
+  "visual_author": "Claude, HyperFrames (HTML and GSAP rendered in Chrome)",
+  "principle": "Original product interface pixels are scaled, cropped and moved; campaign type and motion sit around them. No on-screen provenance labels; qualifications live here and beside the film."
+ },
+ "qualification": "Recorded from the live web app. No install or sign-up is needed to play.",
+ "sources": {
+  "step-1-rooms.webp": {
+   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/step-1-rooms.webp",
+   "sha256": "e6ec9aa651b7d7dda2eac1a95df07021d9c781af552837f364af89d092084ded"
+  },
+  "step-3-talk.webp": {
+   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/step-3-talk.webp",
+   "sha256": "39e8212bf68b8cf57c8221327066489bc532a3f5963cbfc070509ebbe5ca520c"
+  },
+  "chat-open.webp": {
+   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/chat-open.webp",
+   "sha256": "4b97b987ea9466b92d512281d75220c16854c1f618fa4ccbf86f756ed96ad16e"
+  },
+  "game-balance-choose.webp": {
+   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/game-balance-choose.webp",
+   "sha256": "9e0313e9fcbac2402ce934f4074312f90d19c0b34cd31111ab5df8e18e4348af"
+  },
+  "turn-over.gif": {
+   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/turn-over.gif",
+   "sha256": "6130590d71280cb63d4a7380e1247cce42bf870051abcf1e4f1a79d54c32d120"
+  },
+  "balance-round.gif": {
+   "source": "github.com/EricEremos/say-on-showcase @ 5dd2fabd4e8a2322426e82dba7d5eacc7da1e993, assets/balance-round.gif",
+   "sha256": "510b7807e7e390d1b957fdddc82608db21201b41440c8e1982d4f71866b01c59"
+  },
+  "qcard.png": {
+   "note": "crop of step-3-talk.webp: the question photo card"
+  }
+ },
+ "files": {
+  "mp4": {
+   "path": "assets/say-on-promo-20261024.mp4",
+   "bytes": 1867502,
+   "sha256": "ee99f16b0d775ccd4c6b8925d21c82d9a35ccaca63bcdc4205d402af7ddecb94"
+  },
+  "gif": {
+   "path": "assets/say-on-promo-20261024.gif",
+   "bytes": 7337488,
+   "sha256": "e21c51d9324cfc183faf1ed706dce00ad37dcf312a16a25d1ff34f05137ad3d6"
+  },
+  "poster": {
+   "path": "assets/say-on-promo-20261024-poster.png",
+   "bytes": 1052434,
+   "sha256": "cc4d397ae814c28746fe93082fee8e179081d4edab746dd814ddf3fc30927340"
+  }
+ }
+}

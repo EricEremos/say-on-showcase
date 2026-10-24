@@ -18,6 +18,14 @@
 
 Say-On gives the people around a table something to start with. Pick a question, hear an unexpected answer and follow the conversation wherever it goes. There is no feed, score or winner.
 
+## Watch the product film
+
+<p align="center"><a href="assets/say-on-promo-20261024.mp4"><img src="assets/say-on-promo-20261024.gif" alt="Say-On film: friends open a room, a card turns over to reveal a question, the table talks it through, and a balance round reveals everyone's choice." width="100%"></a></p>
+
+[Watch the full film (MP4)](assets/say-on-promo-20261024.mp4) · [Open the still frame](assets/say-on-promo-20261024-poster.png) · [Capture and production details](assets/say-on-promo-20261024-manifest.json)
+
+Recorded from the live web app. No install or sign-up is needed to play.
+
 ## Bring everyone to the same table
 
 <p align="center">
