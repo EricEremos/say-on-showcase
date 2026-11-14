@@ -1,0 +1,32 @@
+{
+ "edition": "2026-11-14 film, built from the product's newest real screens",
+ "film": {
+  "duration_seconds": 22.2,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": "silent",
+  "readme_loop": "3.0-18.0 s of the film",
+  "mp4": "review encode of the master (H.264 CRF 24, faststart)"
+ },
+ "qualification": "The app's newest wide layout (5 Nov 2026) run locally with no backend: the lobby, and the app's own development room pages with a fixture room (\ud558\ub298, \ubbfc\uc9c0, \uc9c0\uc218). The card journey, the chat and the vote are the app's own motion, recorded. No live room was opened.",
+ "note": "",
+ "master_sha256": "c7175b1f9ad68e9b67f6400af42203feaa95a2ada80447057033990667eaaab4",
+ "files": {
+  "mp4": {
+   "path": "assets/say-on-promo-20261114.mp4",
+   "bytes": 2892773,
+   "sha256": "14ab9ebca98ab4b8978e388a92bc1cbc825adbca6fa7da37f5577f5e65c2a0c2"
+  },
+  "gif": {
+   "path": "assets/say-on-promo-20261114.gif",
+   "bytes": 1230027,
+   "sha256": "45fd59054756ea9d934fd4260e6958450b227f78c825626f451e469183c39236"
+  },
+  "poster": {
+   "path": "assets/say-on-promo-20261114-poster.png",
+   "bytes": 1959094,
+   "sha256": "8c79f55922d8127b18c68572b5c6e6cbc869a574ea851d6c3fc9c7d0c17e68dd"
+  }
+ }
+}
